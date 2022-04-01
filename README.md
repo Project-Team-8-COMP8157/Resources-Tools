@@ -1,4 +1,4 @@
-# Resources-Tools used in the Project
+# Resources and Tools used in the Project
 1. https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf
 2. https://phoenixnap.com/kb/install-hadoop-ubuntu
 3. https://stackoverflow.com/questions/28661285/hadoop-cluster-setup-java-net-connectexception-connection-refused
